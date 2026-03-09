@@ -1,7 +1,7 @@
 # Probabilistic Future Event Modeling
 
 ## Introduction
-This project explores a novel approach to forecasting by leveraging **probabilistic reasoning** to model future events before they occur. Traditional predictive models analyze historical data to extrapolate future trends, but this framework works in reverse—starting with assumed future conditions and working backward to optimize present decision-making.
+This project explores a novel approach to forecasting by leveraging **probabilistic reasoning** to model future events before they occur. Traditional predictive models analyze historical data to extrapolate future trends, but this framework works in reverse--starting with assumed future conditions and working backward to optimize present decision-making.
 
 ## Problem Statement
 Current forecasting models in finance, logistics, and policy-making rely on historical data patterns, which often fail in the face of unprecedented events (e.g., black swan events, geopolitical shifts, or rapid technological advancements). By **structuring AI models that begin with future assumptions and apply probabilistic constraints**, we can create a more **adaptive and resilient** prediction system.
@@ -33,5 +33,3 @@ The system will generate probabilistic trees, where future states adjust in real
 - **Model Benchmarking**: Comparing this approach against traditional forecasting models in controlled environments.
 
 For collaboration, reach out via [GitHub Issues] or submit pull requests!
-
-
